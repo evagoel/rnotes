@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rnotes/static/css/main.3d0a8525.css",
+    "main.js": "/rnotes/static/js/main.7afdbf96.js",
+    "index.html": "/rnotes/index.html",
+    "main.3d0a8525.css.map": "/rnotes/static/css/main.3d0a8525.css.map",
+    "main.7afdbf96.js.map": "/rnotes/static/js/main.7afdbf96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0a8525.css",
+    "static/js/main.7afdbf96.js"
+  ]
+}
